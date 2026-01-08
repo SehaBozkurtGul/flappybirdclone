@@ -1,0 +1,4 @@
+repository "paper planes@MoonlightSoft@cloud"
+  path "/"
+    br "/main"
+    co "/main"
